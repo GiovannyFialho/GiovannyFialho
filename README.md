@@ -1,4 +1,5 @@
 # Eai, beleza? 🤙🏻
 
-### Giovanny Fialho 
-* @fialh0_
+### Giovanny Fialho
+> Desenvolvedor front end
+* Twitter: @fialh0_

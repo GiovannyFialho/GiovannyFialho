@@ -1,4 +1,3 @@
 # Eai, beleza? 🤙🏻
 
-### Giovanny Fialho
-> Desenvolvedor front end
+### Desenvolvedor front end

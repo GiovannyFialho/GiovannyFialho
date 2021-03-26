@@ -4,5 +4,4 @@
 
 [![GiovannyFialho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyFialho&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannyFialho&show_icons=true&theme=radical)
-
+[![GiovannyFialho's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannyFialho&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

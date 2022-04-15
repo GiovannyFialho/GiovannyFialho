@@ -8,4 +8,4 @@
 - São Paulo 🔴⚫️⚪️
 - Futebol ⚽️
 - Vôlei 🏐
-- Espiritual 🙏🏻
+- Espiritualidade 🙏🏻

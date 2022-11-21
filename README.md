@@ -6,6 +6,5 @@
 - Front-end 👨🏻‍💻
 - Em busca de conhecimento 📚
 - São Paulo 🔴⚪️⚫️
-- Futebol ⚽️
-- Vôlei 🏐
+- Esportes
 - Espiritualidade 🙏🏻

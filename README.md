@@ -5,7 +5,7 @@
 ## Se fosse fazer um resumo:
 - Front-end 👨🏻‍💻
 - Em busca de conhecimento 📚
-- São Paulo 🔴⚫️⚪️
+- São Paulo 🔴⚪️⚫️
 - Futebol ⚽️
 - Vôlei 🏐
 - Espiritualidade 🙏🏻
